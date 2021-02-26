@@ -24,7 +24,7 @@ Once imported, you should see a file tree, much like you would in any other VCS,
 
 Now you can see the source tree, time to change the repo to public, since by default it's private. You'll want to go click Space Settings -> Security, then change the security settings to "View All" like below: 
 
-
+![5](assembla5.png)
 
 # Connecting to Travis CI 
 
