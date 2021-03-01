@@ -43,7 +43,5 @@ It will notify you that Assembla/Travis are syncing your repos, any changes you 
 # In conclusion 
 
 We've just integrated Assembla and Travis CI into our project by using the `import` feature in Assembla very quick and easily. If you have any questions please feel free to post them in the video comments section. 
-Happy building!
-
 
 Happy building! 
