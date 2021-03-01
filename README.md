@@ -2,7 +2,7 @@
 
 In February we hosted the first Travis CI webinar in collaboration with Assembla, to show you how easy it is to import an existing repo from GitHub into Assembla’s version control system (VCS) and get up and running with building your project in Travis CI! If you have any questions or comments about the session, feel free to leave them on the video comments section and we’ll be sure to get back to you!
 
-The response to the session has been overwhelmingly positive - so much so that we’re already planning our next webinar, <title and link> for March! We’ll be looking forward to seeing you there!
+The response to the session has been overwhelmingly positive - so much so that we’re already planning our next webinar, [“Using Experimental CLI Commands with Docker”](https://landing.travis-ci.com/webinar/) for March! We’ll be looking forward to seeing you there!
 
 
 # [Integraitng Assembla and Travis CI into your workflow](https://www.youtube.com/watch?v=RXzcXyitNLk&t=220s)
