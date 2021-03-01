@@ -26,7 +26,7 @@ Once imported, you should see a file tree, much like you would in any other VCS,
 
 # Space Settings 
 
-Now you can see the source tree, time to change the repo to public, since by default it's private. You'll want to go click Space Settings -> Security, then change the security settings to "View All" like below: 
+Now you can see the source tree, time to change the repo to public, since by default the repository is private. You'll want to go click Space **Settings -> Security**, then change the security settings to "All" like below:
 
 ![5](assembla5.png)
 
